@@ -1,4 +1,4 @@
-{"Version":"1.0","Url":"https://github.com/Bananagvpn789/topspeedvpn/raw/main/topspeedvpn.zip","Text":"📢 อัพเดท วันที่ 25 กรกฎาคม 2566
+{"Version":"1.1","Url":"https://github.com/Bananagvpn789/topspeedvpn/raw/main/topspeedvpn.zip","Text":"📢 อัพเดท วันที่ 6 สิงหาคม 2566
 
 Topspeed VPN แอปเน็ตฟรีเปิดให้บริการใหม่ 📢
 

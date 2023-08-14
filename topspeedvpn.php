@@ -1,4 +1,4 @@
-{"Version":"1.1","Url":"https://github.com/Bananagvpn789/topspeedvpn/raw/main/topspeedvpn.zip","Text":"📢 อัพเดท วันที่ 11 สิงหาคม 2566
+{"Version":"1.1","Url":"https://github.com/Bananagvpn789/topspeedvpn/raw/main/topspeedvpn.zip","Text":"📢 อัพเดท วันที่ 14 สิงหาคม 2566
 
 Topspeed VPN แอปเน็ตฟรีเปิดให้บริการใหม่ 📢
 
@@ -6,9 +6,9 @@ Topspeed VPN แอปเน็ตฟรีเปิดให้บริกา�
 
 🆙 รายละเอียดการอัพเดท (ล่าสุด)​
 
-🌐 TH 5 เซิร์ฟเวอร์ (ใช้งานทั่วไป) 
+🌐 TH 2 เซิร์ฟเวอร์ (ใช้งานทั่วไป) 
 🌐 Game 1 เซิร์ฟเวอร์ (เล่นเกม)
-🌐 SG 2 เซิร์ฟเวอร์ (ดูหนัง-YouTube) 
+🌐 SG 3 เซิร์ฟเวอร์ (โซเชียล-ทั่วไป) 
 🌐 US 2 เซิร์ฟเวอร์ (ดูหนัง-YouTube) 
 
 📳 เมื่อเห็นข้อความอัพเดทนี้
